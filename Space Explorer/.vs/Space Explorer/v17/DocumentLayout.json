@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\assets\\scripts\\plane scripts\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plane scripts\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\assets\\scripts\\background scripts\\bgscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background scripts\\bgscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\assets\\scripts\\background scripts\\bgscrolling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background scripts\\bgscrolling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\assets\\scripts\\background scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\assets\\scripts\\bullet scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\assets\\scripts\\controller scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller scripts\\mainmenucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\assets\\scripts\\drop item scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drop item scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\assets\\scripts\\drop item scripts\\spawnitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drop item scripts\\spawnitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\spring2025_pru212_net1704_g6_lab1 (1)\\spring2025_pru212_net1704_g6_lab1\\space explorer\\assets\\scripts\\drop item scripts\\spawnstaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drop item scripts\\spawnstaritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\spring2025_pru212_net1704_g6_lab1 (1)\\spring2025_pru212_net1704_g6_lab1\\space explorer\\assets\\scripts\\drop item scripts\\staritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\drop item scripts\\staritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\spring2025_pru212_net1704_g6_lab1 (1)\\spring2025_pru212_net1704_g6_lab1\\space explorer\\assets\\scripts\\enemy scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\assets\\scripts\\plane scripts\\planeswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plane scripts\\planeswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\assets\\scripts\\spawner scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\spring2025_pru212_net1704_g6_lab1 (1)\\spring2025_pru212_net1704_g6_lab1\\space explorer\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\tmp_examplescript_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\tmp_examplescript_01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\spring2025_pru212_net1704_g6_lab1 (1)\\spring2025_pru212_net1704_g6_lab1\\space explorer\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\tmp_frameratecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\tmp_frameratecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\spring2025_pru212_net1704_g6_lab1 (1)\\spring2025_pru212_net1704_g6_lab1\\space explorer\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\tmp_texteventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\tmp_texteventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\spring2025_pru212_net1704_g6_lab1 (1)\\spring2025_pru212_net1704_g6_lab1\\space explorer\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\tmp_textselector_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\tmp_textselector_b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\spring2025_pru212_net1704_g6_lab1 (1)\\spring2025_pru212_net1704_g6_lab1\\space explorer\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\benchmark04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\benchmark04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\spring2025_pru212_net1704_g6_lab1 (1)\\spring2025_pru212_net1704_g6_lab1\\space explorer\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\benchmark02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\benchmark02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\spring2025_pru212_net1704_g6_lab1 (1)\\spring2025_pru212_net1704_g6_lab1\\space explorer\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\benchmark01_ugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\benchmark01_ugui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|c:\\users\\admin\\downloads\\spring2025_pru212_net1704_g6_lab1 (1)\\spring2025_pru212_net1704_g6_lab1\\space explorer\\assets\\textmesh pro\\examples \u0026 extras\\scripts\\benchmark01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\examples \u0026 extras\\scripts\\benchmark01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\assets\\scripts\\plane scripts\\planebound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DC1A78-3543-BD20-FE20-892D30D69C34}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\plane scripts\\planebound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Bullet Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet Scripts\\Bullet.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Bullet Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet Scripts\\Bullet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T15:39:01.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Background Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Background Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:38:52.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BGScaler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Background Scripts\\BGScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background Scripts\\BGScaler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Background Scripts\\BGScaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background Scripts\\BGScaler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:51:41.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Plane Scripts\\Plane.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Plane Scripts\\Plane.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Plane Scripts\\Plane.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Plane Scripts\\Plane.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:55:49.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Controller Scripts\\MainMenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller Scripts\\MainMenuController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Controller Scripts\\MainMenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller Scripts\\MainMenuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T05:59:41.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Drop Item Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Drop Item Scripts\\Item.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Drop Item Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Drop Item Scripts\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:39:28.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BGScrolling.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Background Scripts\\BGScrolling.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background Scripts\\BGScrolling.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Background Scripts\\BGScrolling.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background Scripts\\BGScrolling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T03:57:45.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SpawnItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Drop Item Scripts\\SpawnItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Drop Item Scripts\\SpawnItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Drop Item Scripts\\SpawnItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Drop Item Scripts\\SpawnItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T14:47:46.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpawnStarItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Drop Item Scripts\\SpawnStarItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Drop Item Scripts\\SpawnStarItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Drop Item Scripts\\SpawnStarItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Drop Item Scripts\\SpawnStarItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:43:06.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StarItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Drop Item Scripts\\StarItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Drop Item Scripts\\StarItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Drop Item Scripts\\StarItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Drop Item Scripts\\StarItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:43:08.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Enemy Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Enemy Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\Enemy.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAqwJYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:52:32.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlaneSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Plane Scripts\\PlaneSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Plane Scripts\\PlaneSwitcher.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Plane Scripts\\PlaneSwitcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Plane Scripts\\PlaneSwitcher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T04:53:58.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Spawner Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner Scripts\\Spawner.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Spawner Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner Scripts\\Spawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:47:02.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TMP_ExampleScript_01.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_ExampleScript_01.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_ExampleScript_01.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_ExampleScript_01.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_ExampleScript_01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:44:17.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TMP_FrameRateCounter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_FrameRateCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_FrameRateCounter.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_FrameRateCounter.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_FrameRateCounter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:44:16.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TMP_TextEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextEventHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextEventHandler.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextEventHandler.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:44:14.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TMP_TextSelector_B.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextSelector_B.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextSelector_B.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextSelector_B.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\TMP_TextSelector_B.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:44:13.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Benchmark04.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark04.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark04.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark04.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark04.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:44:07.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Benchmark02.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark02.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark02.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark02.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark02.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:44:06.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Benchmark01_UGUI.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01_UGUI.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01_UGUI.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01_UGUI.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01_UGUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:44:05.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Benchmark01.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01.cs",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01.cs",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Examples \u0026 Extras\\Scripts\\Benchmark01.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:44:02.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlaneBound.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Plane Scripts\\PlaneBound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Plane Scripts\\PlaneBound.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Spring2025_PRU212_NET1704_G6_Lab1 (1)\\Spring2025_PRU212_NET1704_G6_Lab1\\Space Explorer\\Assets\\Scripts\\Plane Scripts\\PlaneBound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Plane Scripts\\PlaneBound.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:32:35.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
